@@ -1,0 +1,128 @@
+.container{
+	width: 1100px;
+	height: 1200px;
+}
+
+.top{
+	height: 100px;
+	width: 1100px;
+	background-color: #F2F8F8;
+}
+.top1{
+	float: left;
+	padding-top: 30px;
+	padding-left: 80px;
+}
+.top2{
+	float: left;
+	padding-top: 20px;
+	padding-left: 60px;
+}
+.top3{
+	float: left;
+	padding-top: 20px;
+	padding-left: 30px;
+}
+.top4{
+	float: left;
+	padding-top: 20px;
+	padding-left: 30px;
+}
+.top5{
+	float: left;
+	padding-top: 20px;
+	padding-left: 30px;
+}
+.top6{
+	float: left;
+	padding-top: 20px;
+	padding-left: 30px;
+}
+
+
+.mid{
+	height: 300px;
+	width: 1100px;
+	background-color: #FCEEFC;
+}
+
+.midleft{
+	float: left;
+	width: 550px;
+	padding-left: 60px;
+	padding-top: 20px;
+
+}
+
+.mhead1{
+	color: #3799FF;
+	font-size: 30px;
+	font-family: cursive;	
+}
+.mtext1{
+	padding-top: 10px;
+	font-size: 15px;
+	font-family: inherit;
+}
+.midright{
+	float: left;
+	padding-left: 80px;
+	padding-top: 40px;
+	width: 400px;
+}
+
+.bot{
+	width: 1100px;
+	height: 600px;
+	background-color:  #EBEBFF;
+}
+
+.botlef{
+	float: left;
+	width: 300px;
+	height: 400px;	
+	background-color: #EBEBFF;
+	padding-left: 20px;
+	
+}
+.botmid{
+	float: left;
+	width: 300px;
+	height: 400px;	
+	background-color: #EBEBFF;
+	padding-left: 20px;
+	
+}
+.botrigh{
+	float: left;
+	width: 300px;
+	height: 400px;	
+	background-color: #EBEBFF;
+	padding-left: 20px;
+	margin-right: 10px;
+
+
+	
+}
+
+.bothead{
+	font-size: 28px;
+	font-family: cursive;
+}
+
+
+.bottext{
+	font-size: 20px;
+	font-family: cursive;
+}
+
+
+
+
+
+
+
+
+
+
+
